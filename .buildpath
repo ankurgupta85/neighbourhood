@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry external="true" kind="lib" path="C:/git/projects/Neighbourhood/Neighbourhood/WebContent/WEB-INF/lib/commons-validator-1.4.0.jar"/>
+</buildpath>
